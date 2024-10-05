@@ -34,7 +34,6 @@ integrity of the electoral process. The increasing demand for secure and efficie
 in various contexts, from national elections to corporate decision-making, necessitates the
 development of advanced digital voting solutions
 
-### Problem Statement: 
 Our project’s innovative approach lies in the integration of LFRS
 encryption with a comprehensive authorization framework, specifically tailored for digital voting.We are designing a secure digital voting system that ensures voter privacy and prevents
 fraud.
