@@ -52,7 +52,10 @@ including those with physical limitations or geographical constraints.
 <details>
   <summary>Detail</summary>
 
-> Update a neat logisim circuit diagram
+
+![WhatsApp Image 2024-10-05 at 22 50 45_262ed872](https://github.com/user-attachments/assets/d06b202f-4307-4993-ae79-6b879893d404)
+
+![WhatsApp Image 2024-10-05 at 22 54 31_f7ab91f8](https://github.com/user-attachments/assets/d07b1513-3f36-47fb-a8b2-2c43bcaa289a)
 
 </details>
 
@@ -60,12 +63,6 @@ including those with physical limitations or geographical constraints.
 
 <details>
   <summary>Detail</summary>
-
-![WhatsApp Image 2024-10-05 at 22 50 45_262ed872](https://github.com/user-attachments/assets/d06b202f-4307-4993-ae79-6b879893d404)
-![WhatsApp Image 2024-10-05 at 22 54 31_f7ab91f8](https://github.com/user-attachments/assets/d07b1513-3f36-47fb-a8b2-2c43bcaa289a)
-
-
-
 </details>
 
 <!-- Fourth Section -->
