@@ -9,7 +9,7 @@
 
 > Semester: 3rd Sem B. Tech. CSE
 
-> Section: S1
+> Section: S2
 
 > Member-1: Ankush Chaudhary, 231CS209, ankushchaudhary.231cs209@nitk.edu.in
 
@@ -26,8 +26,7 @@
 <details>
   <summary>Detail</summary>
   
-  > Abstract
->  ### Motivation:
+ ### Motivation:
  Traditional voting systems face challenges in ensuring security, transparency, and
 accessibility. Paper-based methods are susceptible to tampering, while existing digital solutions
 often lack robust encryption and authorization mechanisms, potentially compromising the
@@ -63,7 +62,10 @@ including those with physical limitations or geographical constraints.
 <details>
   <summary>Detail</summary>
 
-> Explain the working of your model with the help of a functional table (compulsory) followed by the flowchart.
+![WhatsApp Image 2024-10-05 at 22 50 45_262ed872](https://github.com/user-attachments/assets/d06b202f-4307-4993-ae79-6b879893d404)
+![WhatsApp Image 2024-10-05 at 22 54 31_f7ab91f8](https://github.com/user-attachments/assets/d07b1513-3f36-47fb-a8b2-2c43bcaa289a)
+
+
 
 </details>
 
