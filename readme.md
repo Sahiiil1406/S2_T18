@@ -35,12 +35,12 @@ in various contexts, from national elections to corporate decision-making, neces
 development of advanced digital voting solutions
 
 Our project’s innovative approach lies in the integration of LFRS
-encryption with a comprehensive authorization framework, specifically tailored for digital voting.We are designing a secure digital voting system that ensures voter privacy and prevents
+encryption with a comprehensive authorization framework, specifically tailored for digital voting.We are designing a secure digital voting system that ensures voter privacy and prevents
 fraud.
 ### Features:
 1. Enhanced Security: The LFRS encryption provides a high level of security against
 potential attacks, ensuring the integrity of each vote.
-2. Efficient Verification: The system allows for easy verification of votes without compromising voter anonymity.
+2. Efficient Verification: The system allows for easy verification of votes without compromising voter anonymity.
 3. Scalability: The digital nature of the system makes it adaptable to various scales, from
 small organizational votes to large national elections.
 4. Accessibility: By leveraging digital platforms, our system increases accessibility for voters,
