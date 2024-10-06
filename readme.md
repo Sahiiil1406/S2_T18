@@ -15,7 +15,7 @@
 
 > Member-2: Ashish Ranjan, 231CS214, ashishranjan.231cs214@nitk.edu.in
 
-> Member-3: Sahil Kumar, 231CS151, sahilkumar.231cs252@nitk.edu.in
+> Member-3: Sahil Kumar, 231CS252, sahilkumar.231cs252@nitk.edu.in
 
 </details>
 
