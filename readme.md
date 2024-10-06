@@ -1,4 +1,4 @@
-# Digital Voting System with Authorisation
+# Digital Voting System with Encryption
 
 <!-- First Section -->
 
