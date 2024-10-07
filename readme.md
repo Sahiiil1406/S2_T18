@@ -53,7 +53,7 @@ including those with physical limitations or geographical constraints.
   <summary>Detail</summary>
 
 
-![WhatsApp Image 2024-10-05 at 22 50 45_262ed872](https://github.com/user-attachments/assets/d06b202f-4307-4993-ae79-6b879893d404)
+![image](https://github.com/user-attachments/assets/a46cff60-cc7a-4c85-8888-3f3f5eafb817)
 #### Encryption Algorithm(LRFS)
 ![WhatsApp Image 2024-10-05 at 22 54 31_f7ab91f8](https://github.com/user-attachments/assets/d07b1513-3f36-47fb-a8b2-2c43bcaa289a)
 
