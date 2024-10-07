@@ -54,6 +54,10 @@ including those with physical limitations or geographical constraints.
 
 
 ![image](https://github.com/user-attachments/assets/a46cff60-cc7a-4c85-8888-3f3f5eafb817)
+
+### Voting Mechanism
+![image](https://github.com/user-attachments/assets/6f916e84-63c1-4f8c-9e9e-88e1e6908ba6)
+
 #### Encryption Algorithm(LRFS)
 ![image](https://github.com/user-attachments/assets/02271375-645c-4d50-ab60-5a64c4e30cf4)
 
