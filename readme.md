@@ -1,4 +1,4 @@
-# Digital Voting System with Encryption
+# Digital Voting System with LFSR Encryption
 
 <!-- First Section -->
 
